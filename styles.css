@@ -1,0 +1,114 @@
+
+#title{
+  background-color: #FFB319;
+  font-family: "Oswald";
+}
+.navbar-brand
+{
+
+font-family: "Oswald";
+font-size:3.5rem;
+}
+.nav-item
+{
+  font-size:2rem;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #8f8f8f;
+}
+
+.container-fluid
+{
+  padding:3% 15%;
+}
+.navbar
+{
+padding: 0 0 4.5rem;
+}
+
+.profile-img{
+border-radius: 100%;
+width: 100%;
+height: auto;
+}
+
+.image-box{
+  padding-left: 250px;
+}
+h1
+{
+  font-size:5rem;
+  padding-bottom: 5%;
+  color:#fff;
+  font-family:"Oswald";
+}
+.button-box{
+padding-left:0%;
+}
+.hire-button{
+  background-color:#B8DFD8;
+  padding-left: 20%;
+  padding-right: 20%;
+
+}
+#about-me{
+  text-align: center;
+  background-color: #fff;
+  padding:7% 15%;
+}
+h2{
+  font-family: "Oswald";
+}
+p{
+  color: #808080;
+font-family: "Oswald";
+}
+#achievements{
+  text-align: center;
+  background-color: #FFE194;
+  padding:7% 15%;
+  font-family: "Oswald";
+}
+.card-btn{
+  background-color:#B8DFD8;
+}
+h3{
+  padding-bottom: 5%;
+  font-family: "Oswald";
+}
+.card-img-top{
+  height:300px;
+}
+#projects{
+  background-color:#B8DFD8;
+  text-align: center;
+
+}
+.car{
+  padding:7% 15%;
+}
+h2{
+  padding-top: 5%;
+}
+.carousel-control-next-icon{
+  color: #000;
+}
+.carousel-control-prev-icon{
+  color: #000;
+}
+#contact-me
+{
+  background-color:#B8DFD8;
+  text-align: center;
+  padding-top: 5%;
+}
+.contact-btn{
+  background-color: #FFE194;
+}
+.button-row{
+  padding-bottom: 5%;
+  margin-left: 25%;
+}
+.footer{
+ margin-bottom: 10px;
+}
